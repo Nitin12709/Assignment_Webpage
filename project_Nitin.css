@@ -1,0 +1,23 @@
+body{
+  
+    overflow-x: hidden;
+}
+.class_1{
+    margin-left: 40px;
+    font-weight: bold;
+    text-decoration: none;
+   
+}
+ul a:hover{
+    text-decoration: underline red;
+}
+.class_2{
+    text-decoration: none;
+   color: white;
+   padding-left:15px ;
+   font-weight: bold;
+}
+.class_3{
+    background-color: rgb(5,0,68);
+    min-height: 650px;
+}
